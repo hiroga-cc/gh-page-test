@@ -5,4 +5,5 @@ GitHub Pagesでできることを試すリポジトリ
 * GitHub PagesはREADME.mdファイルをindex.htmlファイルに変換してホスティングしてくれるサービス
 → URLで直接README.mdを指定すると、単にRAW形式で表示することができる。
 
+[TESTメモに進む](.TEST)
 [Pythonメモに進む](./python/index.html)
